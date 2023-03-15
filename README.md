@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil de Arthur Vieira 😁
+## Bem-vindo(a) ao meu perfil! 
+## Welcome to my profile!
 
  <div>
    <a href="https://github.com/arthur-devops04">
@@ -16,7 +17,8 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para entrar em contato comigo, clique em um dos ícones!
+  ### To contact me, click on one of the icons!
  
 <div> 
   <a href = "mailto:arthurlive022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
